@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+djangorestframework = "*"
+Django = "*"
+Pygments = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"
